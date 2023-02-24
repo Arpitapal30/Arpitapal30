@@ -1,7 +1,7 @@
+![logo](https://github.com/Arpitapal30/Arpitapal30/blob/main/Blue%20Yellow%20Simple%20Entrepreneur%20LinkedIn%20Banner%20%20(2).jpg)
 
 
 
-preview
 <h1 align="center">Hi 👋, I'm Arpita pal</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
