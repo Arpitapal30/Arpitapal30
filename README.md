@@ -1,9 +1,11 @@
 
+
+
 preview
 <h1 align="center">Hi 👋, I'm Arpita pal</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img align= "right" alt="coding" width="400 src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+<img align= "right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 ">
 - 🔭 I’m currently working on **Sentiment Analysis NLP Project**
 
@@ -29,3 +31,4 @@ preview
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpipal30&show_icons=true&locale=en&layout=compact" alt="arpipal30" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpipal30&show_icons=true&locale=en" alt="arpipal30" /></p>
+
